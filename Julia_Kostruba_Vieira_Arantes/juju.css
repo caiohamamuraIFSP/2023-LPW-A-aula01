@@ -1,0 +1,17 @@
+.rosa {
+    color: deeppink;
+}
+.centro {
+    display: block;
+    text-align:  center;
+}
+.centro {
+    display: block;
+    margin: auto;
+}
+p{
+    color: darkgoldenrod;
+}
+#algo-escrito{
+    font-weight: bold;
+}

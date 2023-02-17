@@ -1,0 +1,22 @@
+body {
+  background-color: #add8e6;
+}
+
+#imagem {
+  display: flex;
+  justify-content: center;
+  widht: 250px;
+  height: 350px;
+  padding:16px;
+  margin: 10px;
+}
+
+.texto {
+  display: flex;
+  justify-content: center;
+  font: italic normal bold 20pt/25pt Comic Sans;
+  background-color: #00bfff;
+  border-radius: 100px;
+  height:100px;
+  color:#0019
+}

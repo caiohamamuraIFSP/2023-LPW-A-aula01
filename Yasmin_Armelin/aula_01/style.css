@@ -1,0 +1,19 @@
+img {
+    display: block;
+    margin: auto;
+}
+.roxo{
+    color:blueviolet;
+}
+p1{
+    color:orange !important;
+}
+p2{
+    color: palevioletred !important;
+}
+p3{
+    color:green !important;
+}
+#algoescrito{
+    font-weight: bold;
+}

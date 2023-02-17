@@ -1,0 +1,10 @@
+h1 {
+    color:purple; 
+   }
+#dov {
+   display: flex;
+   justify-content: center;
+     }
+body{
+    text-align:center ;
+    }

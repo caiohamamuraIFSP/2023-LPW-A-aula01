@@ -1,0 +1,55 @@
+/* CSS DAS TAGS */
+body {
+    background-color: rgb(220, 115, 130);
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 1cm;
+    font-size: 0.5cm;
+    color: azure;
+    text-align: center;
+}
+ 
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 1cm;
+    color: rgb(255, 236, 236);
+    text-align: center;
+}
+
+/* CSS DAS CLASSES */
+.sorvete {
+    display: block;
+    text-align: center;
+    background-color: rgb(5, 115, 85);
+    margin: -8px;
+    border-bottom: 2px white solid  ;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    margin-left: -8px;
+    margin-right: -8px;
+    border-bottom: 2px azure solid;
+    border-top: 2px azure solid;
+}
+
+/*CSS DOS IDS */
+#imgsorvete {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 4cm;
+    height: 4cm;
+    border: 2px rgb(243, 243, 243) dashed;
+    background-color: rgb(60,160,125);
+    border-radius: 5cm;
+}
+
+#textosorvete {
+    color: rgb(1, 73, 73);
+    font-size: 20px;
+    margin-left: 1px;
+    margin-right: 20px;
+}

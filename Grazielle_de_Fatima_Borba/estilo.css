@@ -1,0 +1,17 @@
+.centro{
+    display: flex;
+    justify-content: center;
+}
+.subtitulo{
+    color: red;
+    justify-content:left;
+    font-weight: bold;
+}
+#especial{
+    font-size: 20px;
+    font-style: italic;
+}
+.negrito{
+    font-size: 20px;
+    font-weight: bolder;
+}

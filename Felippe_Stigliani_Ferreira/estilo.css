@@ -1,0 +1,27 @@
+html{
+    min-height: 100%;
+    background-color: rgba(255, 0, 0, 0.452);
+    font-size: x-large;
+    
+    
+}
+#canetaazul
+{
+    margin: 3px  499px;
+    
+    font-weight: bold;
+    width: 60%;
+    height: min-content;
+}
+.centro{
+    display: block;
+    text-align: center;
+    
+}
+.verde{
+    color:rgb(0, 255, 21)  
+}
+p{
+    color: rgb(165, 42, 165) !important;
+}
+

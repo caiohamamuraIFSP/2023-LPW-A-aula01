@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(172, 192, 146);
+}
+.caixa {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+#title{
+    text-align: center;
+    font-size: 40px;
+}
+.jurubeba{
+    width: 400px;
+}
+.centro {
+    padding: 5px 0 5px 0;
+    text-align: center;
+    border: 1px dotted #000;
+}

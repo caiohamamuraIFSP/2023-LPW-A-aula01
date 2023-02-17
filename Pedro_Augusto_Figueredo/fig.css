@@ -1,0 +1,16 @@
+h1{
+    color: greenyellow;
+}
+#fig{
+    display: flex;
+    justify-content: center;
+    height: 452px;
+}
+body{
+    background-color: gray;
+    text-align: center;
+}
+p{
+    color: white;
+
+}

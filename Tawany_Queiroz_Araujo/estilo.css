@@ -1,0 +1,35 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:rgba(146, 30, 255, 0.945)
+}
+
+.titulo{
+    display: block;
+    text-align: center;
+}
+
+#paragrafo{
+    display: block;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+    height: 350px;
+    width: 550px;
+}
+
+.vermelho{
+    color: rgb(76, 0, 255);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 119, 255);
+}

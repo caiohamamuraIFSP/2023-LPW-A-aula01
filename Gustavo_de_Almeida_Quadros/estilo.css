@@ -1,0 +1,26 @@
+#eita {
+    
+    font-family: fantasy;
+    font-size: 300%;
+}
+body {
+    color: aqua;
+    text-align: center;
+}
+.centro {
+    display: block;
+    text-align: center;
+}
+    
+img {
+    display: block;
+    text-align: center;
+    width: 50%;
+    justify-content: center;
+}
+
+.centro {
+    display: flex;
+    justify-content: center;
+}
+
